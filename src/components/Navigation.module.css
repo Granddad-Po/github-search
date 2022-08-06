@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    background: gray;
+    height: 50px;
+    padding: 0 25px;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: black;
+    color: white;
+}
+
+.logo {
+
+}
+
+.link {
+    margin-left: 15px;
+    text-decoration: none;
+    color: white;
+    font-weight: normal;
+}
